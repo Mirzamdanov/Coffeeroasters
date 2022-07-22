@@ -1,0 +1,46 @@
+.coffee__container {
+	background-image: url(./../../images/bg-img.jpg);
+	width: 100%;
+	border-radius: 10px;
+	height: 600px;
+	background-size: c;
+	background-repeat: no-repeat;
+	padding-top: 120px;
+	padding-left: 85px;
+}
+
+.coffee__article {
+	display: flex;
+	flex-direction: column;
+	width: 495px;
+	height: 255px;
+}
+
+.coffee__heading {
+	font-weight: 900;
+	font-family: "Fraunces";
+	font-size: 72px;
+	line-height: 72px;
+	color: #fefcf7;
+}
+
+.coffee__text {
+	padding-top: px;
+	font-family: "Barlow";
+	font-size: 16px;
+	line-height: 26px;
+	color: #fefcf7;
+}
+
+.coffee__link {
+	width: 220px;
+	padding: 15px 30px;
+	border-radius: 6px;
+	font-weight: 900;
+	font-family: "Fraunces";
+	font-size: 18px;
+	line-height: 25px;
+	background-color: #0e8784;
+	color: #fefcf7;
+}
+

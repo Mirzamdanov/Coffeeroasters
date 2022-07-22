@@ -1,0 +1,26 @@
+.header {
+	padding-top: 50px;
+	padding-bottom: 45px;
+	
+	&__container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+}
+
+.nav {
+
+	&__list {
+		display: flex;
+	}
+
+	&__list--link {
+		font-family: "Barlow";
+		font-size: 12px;
+		line-height: 15px;
+		color: #83888f;
+		padding-left: 35px;
+		text-transform: uppercase;
+	}
+}
